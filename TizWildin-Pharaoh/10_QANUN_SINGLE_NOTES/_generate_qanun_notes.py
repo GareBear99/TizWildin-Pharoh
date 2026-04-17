@@ -1,0 +1,1 @@
+# qanun notes generator placeholder
