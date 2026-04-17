@@ -1,0 +1,10 @@
+Genie-style melodic guide
+
+Root center: C
+Color set:
+C, Db, E, F, G, Ab, Bb
+
+Strong movements:
+C -> Db -> E
+G -> Ab -> G
+Bb -> Ab -> G -> E
