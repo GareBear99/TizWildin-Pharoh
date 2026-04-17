@@ -1,0 +1,16 @@
+Snake summoning melodic guide
+
+Root center: D
+Color set:
+D, Eb, F#, G, A, Bb, C
+
+Feel:
+- hypnotic
+- repetitive
+- winding
+- tense, not cheerful
+
+Strong movements:
+D -> Eb -> F#
+A -> Bb -> A
+G -> F# -> Eb -> D
