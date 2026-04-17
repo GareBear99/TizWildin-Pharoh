@@ -1,1 +1,0 @@
-# construction notes placeholder
