@@ -2,7 +2,7 @@
 
 **Pharaoh-style Egyptian-inspired audio construction, source generation, and pack building.**
 
-TizWildin-Pharoh is a focused repository for building a unified **Egyptian-inspired / Pharaoh-themed audio library**: construction-kit assets, melodic note sets, drums, drones, FX, phrases, and pack-ready releases.
+TizWildin-Pharaoh is a focused repository for building a unified **Egyptian-inspired / Pharaoh-themed audio library**: construction-kit assets, melodic note sets, drums, drones, FX, phrases, and pack-ready releases.
 
 ---
 
