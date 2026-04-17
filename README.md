@@ -1,4 +1,4 @@
-# TizWildin-Pharoh
+# TizWildin-Pharaoh
 
 **Pharaoh-style Egyptian-inspired audio construction, source generation, and pack building.**
 
